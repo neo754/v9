@@ -46,9 +46,9 @@ const readMore = more.repeat(4001)
 
 global.sgh = 'https://github.com/neo754' // github
 global.sgc = 'https://chat.whatsapp.com/Gfe3BpnzavM6I8YHDXykWM' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
+global.sdc = '-'//discord
 global.snh = '-' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
+global.sfb = '-' // facebook
 global.syt = '-'
 global.tik = 'https://www.tiktok.com/@neohihin21' 
 global.tautanwa = 'https://chat.whatsapp.com/Gfe3BpnzavM6I8YHDXykWM'
@@ -83,10 +83,6 @@ global.linkgithub = 'https://github.com/neo754' // tarok link github lu
 /*============== STAFF ==============*/
 global.owner = [
   ['6285710677726', '𝙕𝙚𝙤', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
 //Ganti jd nomormu sama Namamu
 ] 
 global.mods = [] 
